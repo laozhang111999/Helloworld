@@ -5,6 +5,8 @@ public class Helloguigu{
 	
 		System.out.println("Hello guigu");
 		System.out.println("Hello guigu xiaowang update");
+
+		System.out.println("Hello guigu xiaowang update2 22222");
 	}
 	
  
